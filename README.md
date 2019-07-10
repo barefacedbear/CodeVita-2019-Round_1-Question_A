@@ -17,14 +17,20 @@ If not possible, print -1.
 
 Test Case Output:
 
-C:\Users\AVISHEK\Desktop>python Exchange_Digits.py
+Case 1:
+
 459 500
+
 549
 
-C:\Users\AVISHEK\Desktop>python Exchange_Digits.py
+Case 2:
+
 645757 457765
+
 465577
 
-C:\Users\AVISHEK\Desktop>python Exchange_Digits.py
+Case 3:
+
 5964 9984
+
 -1
