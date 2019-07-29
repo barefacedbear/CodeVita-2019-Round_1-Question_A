@@ -24,9 +24,6 @@ if (1 <= int(a) <= 10000000) and (1 <= b <= 10000000):
 		if i==ind:
 			t=a1[i]
 			break
-	a = str(a)
-	b = str(b)
-	t = str(t)
 	#Output
 	if int(t)>int(b):
 		print(t)
